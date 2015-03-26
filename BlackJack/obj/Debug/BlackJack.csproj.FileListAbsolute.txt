@@ -1,0 +1,9 @@
+C:\Users\Tosheto\Desktop\Casino\BlackJack\bin\Debug\BlackJack.exe.config
+C:\Users\Tosheto\Desktop\Casino\BlackJack\bin\Debug\BlackJack.exe
+C:\Users\Tosheto\Desktop\Casino\BlackJack\bin\Debug\BlackJack.pdb
+C:\Users\Tosheto\Desktop\Casino\BlackJack\obj\Debug\BlackJack.csprojResolveAssemblyReference.cache
+C:\Users\Tosheto\Desktop\Casino\BlackJack\obj\Debug\BlackJack.Form1.resources
+C:\Users\Tosheto\Desktop\Casino\BlackJack\obj\Debug\BlackJack.Properties.Resources.resources
+C:\Users\Tosheto\Desktop\Casino\BlackJack\obj\Debug\BlackJack.csproj.GenerateResource.Cache
+C:\Users\Tosheto\Desktop\Casino\BlackJack\obj\Debug\BlackJack.exe
+C:\Users\Tosheto\Desktop\Casino\BlackJack\obj\Debug\BlackJack.pdb
